@@ -1,0 +1,18 @@
+#search {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+#get-weather-button {
+  margin: 2rem;
+  background-color: rgb(117, 185, 143);
+  border-radius: 10px;
+  text-transform: capitalize;
+}
+
+#get-weather-button:hover {
+  background-color: rgb(72, 148, 142));
+  color: black;
+}
