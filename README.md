@@ -6,7 +6,7 @@ A weather app built using React Js
 , the api returns your latitude and longitude and by using that app request for the openweathermap API and it returns the temperature at your location  
   </p>
   
-# Api used 
+# API's used 
 <ul>
   <li> <a href="https://api.openweathermap.org/data/2.5/weather/"> openweathermap </a></li>
   <li> <a href="https://ipapi.co/json">IP API</a> </li>
